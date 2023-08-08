@@ -10,7 +10,7 @@
         "type": "git",
         "url": "git+https://github.com/shreyanksaksena/Spotify-playlist-to-Youtube.git"
     },
-    "author": "Piyush Bhangale",
+    "author": "Shreyank Saksena",
     "license": "GPL-3.0",
     "homepage": "https://github.com/shreyanksaksena/Spotify-playlist-to-Youtube#readme",
     "dependencies": {
