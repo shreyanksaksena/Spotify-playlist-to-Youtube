@@ -8,14 +8,11 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/officialpiyush/spotify-playlist-to-youtube.git"
+        "url": "git+https://github.com/shreyanksaksena/Spotify-playlist-to-Youtube.git"
     },
     "author": "Piyush Bhangale",
     "license": "GPL-3.0",
-    "bugs": {
-        "url": "https://github.com/officialpiyush/spotify-playlist-to-youtube/issues"
-    },
-    "homepage": "https://github.com/officialpiyush/spotify-playlist-to-youtube#readme",
+    "homepage": "https://github.com/shreyanksaksena/Spotify-playlist-to-Youtube#readme",
     "dependencies": {
         "cookie-parser": "^1.4.5",
         "ejs": "^3.1.6",
